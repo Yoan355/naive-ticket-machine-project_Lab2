@@ -66,7 +66,14 @@ private Student representative; type Student (object type)
 private Server host; type Server (object type)
 
 
+Q13: 
+private boolean alive; name alive
+private Person tutor; name tutor
+private Game game; name game
 
+
+Q14: Student,Server,Person and Game.They are all
+class names because they start with an Uppercase,unlike the others (primitive types)
 
 
 
