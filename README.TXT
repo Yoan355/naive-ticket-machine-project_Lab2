@@ -60,6 +60,14 @@ Q11: The two features of the constructor that make it look significantly differe
 of the class are that the constructor has the sanme name as the class and it has no return type.
 
 
+Q12:
+private int count; type int (primitive type)
+private Student representative; type Student (object type)
+private Server host; type Server (object type)
+
+
+
+
 
 
 
