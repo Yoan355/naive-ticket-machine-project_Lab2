@@ -28,3 +28,8 @@ I do not receive any refund, in fact, there isn't a mthod for a refund available
 Q5: No, there is no difference between the ticket from the new machine and the ticket
    from the old machine except for the minimal amount of money I have to insert
    which I customized myself.
+   
+ Q7: After changing public class TicketMachine to class public TicketMachine, The error
+ In the code is "< identifier > expected" and "class,interface,enum or record expected"
+ It shows us that there is infact an error in the class identifier, which makes it clear
+ we swapped public and class spots.
