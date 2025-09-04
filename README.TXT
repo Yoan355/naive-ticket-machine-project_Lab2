@@ -38,3 +38,26 @@ Q5: No, there is no difference between the ticket from the new machine and the t
  
  Q9: It is not possible to remove the word class without it giving us errors.It gave us this following error:
      "class,interface,enum or record expected".
+     
+ Q10: Methods:
+1.public int getPrice()
+2.public int getBalance()
+3.public void insertMoney(int amount)
+4.public void printTicket()
+
+Constructor:
+
+1. public TicketMachine(int cost)
+
+Fields:
+
+1.private int price;
+2.private int balance;
+3.private int total;
+
+
+
+
+
+
+
