@@ -99,7 +99,13 @@ The constructor has the same name as the class it belongs to.
 Q19: The construcor has 2 parameters,String Title and double price.Their types
 are String and double.
 
-Q20:
+Q20:Yes we do need a persistent storage in a real world application to store the class values,
+    Yes we can guess some types like string,int,double,char.
+    Yes some of the names of class fields might be title, name, description,
+    genre,author.
+
+
+
 
 Q21: public Pet(String petsName) {
     name = petsName;
@@ -111,3 +117,11 @@ Q22: public Date(StringmonthName,int dayOfMonth, int yearValue)
 
 Q23: The difference in the headers is the method name (getPrice and getBalance)
      while the difference in their bodies are the Return fields(price vs balance)
+     
+     
+  Q24: "How much money do I have?"   
+  
+  
+  Q25: No,changing the method name does not require to change the return statement.
+  This tells us that we can name the method anything we want but using the right 
+  naming conventions makes the code simpler to understand.
