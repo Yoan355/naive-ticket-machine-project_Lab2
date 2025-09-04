@@ -17,4 +17,14 @@ How to start this project: Create one or more TicketMachine objects.
 /////////////////////Awnsers to questions in pdf////////////////////////
 
 
-Q2:
+Q2: After we print out the ticket, the returned value is 0$
+
+
+Q3: I do notice strange stuff on the machine's behaviour, even if I insert too much money
+or a small amount of money, I can print out an infinite amount of tickets, even though
+the minimal price I set was 350 cents.
+I do not receive any refund, in fact, there isn't a mthod for a refund available.
+
+Q5: No, there is no difference between the ticket from the new machine and the ticket
+   from the old machine except for the minimal amount of money I have to insert
+   which I customized myself.
