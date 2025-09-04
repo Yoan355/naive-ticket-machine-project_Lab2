@@ -76,6 +76,19 @@ Q14: Student,Server,Person and Game.They are all
 class names because they start with an Uppercase,unlike the others (primitive types)
 
 
+Q15: Yes, the appearance of the class diagram does change when I modify the order of
+the words,it has multiple red lines in the diagram which gives me a clue that the ordering
+is not possible.The errors when I rearrange the words are
+"< identifier > expected"
+" ; expected"
+"Illegal start of type"
+
+
+Q16: Yes,a semicolon (;) is always required at the end of a field of declaration,
+It's apart of the syntax which lets the compiler know that the statement/declaration
+is complete.
+
+
 
 
 
