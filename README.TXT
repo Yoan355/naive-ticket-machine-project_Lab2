@@ -88,6 +88,9 @@ Q16: Yes,a semicolon (;) is always required at the end of a field of declaration
 It's apart of the syntax which lets the compiler know that the statement/declaration
 is complete.
 
+Q17: When I replace a field of type int to a field type status,we see that it is not
+possible.We have en error of "Unknown type : status"
+
 
 
 
