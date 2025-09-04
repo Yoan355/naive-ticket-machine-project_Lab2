@@ -92,6 +92,14 @@ Q17: When I replace a field of type int to a field type status,we see that it is
 possible.We have en error of "Unknown type : status"
 
 
+Q18: The constructor public Student(String name) belongs to a class named Student.
+The constructor has the same name as the class it belongs to.
+
+
+Q19: The construcor has 2 parameters,String Title and double price.Their types
+are String and double.
+
+
 
 
 
