@@ -34,7 +34,7 @@ Q5: No, there is no difference between the ticket from the new machine and the t
  It shows us that there is infact an error in the class identifier, which makes it clear
  we swapped public and class spots.
  
- Q8: Yes it is possible to remove thr word public, It does not cause any errors and everything stays the same.
+ Q8: Yes it is possible to remove the word public, It does not cause any errors and everything stays the same.
  
  Q9: It is not possible to remove the word class without it giving us errors.It gave us this following error:
      "class,interface,enum or record expected".
@@ -55,6 +55,9 @@ Fields:
 2.private int balance;
 3.private int total;
 
+
+Q11: The two features of the constructor that make it look significantly different from the methods
+of the class are that the constructor has the sanme name as the class and it has no return type.
 
 
 
