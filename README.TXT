@@ -99,7 +99,15 @@ The constructor has the same name as the class it belongs to.
 Q19: The construcor has 2 parameters,String Title and double price.Their types
 are String and double.
 
+Q20:
+
+Q21: public Pet(String petsName) {
+    name = petsName;
+}
 
 
+Q22: public Date(StringmonthName,int dayOfMonth, int yearValue)
 
 
+Q23: The difference in the headers is the method name (getPrice and getBalance)
+     while the difference in their bodies are the Return fields(price vs balance)
