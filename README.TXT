@@ -33,3 +33,8 @@ Q5: No, there is no difference between the ticket from the new machine and the t
  In the code is "< identifier > expected" and "class,interface,enum or record expected"
  It shows us that there is infact an error in the class identifier, which makes it clear
  we swapped public and class spots.
+ 
+ Q8: Yes it is possible to remove thr word public, It does not cause any errors and everything stays the same.
+ 
+ Q9: It is not possible to remove the word class without it giving us errors.It gave us this following error:
+     "class,interface,enum or record expected".
