@@ -190,5 +190,38 @@ Q36:The price shows 0.
 
 Q37: My cat has green eyes.
 
+
+
+Q39: If we added double quotes around price,the code would literally print out
+the word "price" instead of a value.
+
+
+
+Q40: It would print out the phrase: #price cents.
+
+
+Q42:They do show the same output (0) because in the TicketMachine method the parameter passed
+is named the same as the variable in the class header.
+Hence,the main price is getting replaced by the parameter.
+
+
+
+Q43: They do print out the same output.
+The %d is a placeholder for an integer
+The %n is a new line.A line print.
+
+
+
+Q44: When i modify the price and I remove the parameter, when trying to
+construct a ticket machine object,it does not prompt the setPrice field,it
+defaults to the fixed price (1000 cents)
+
+Q45: One constructor prompts the field because there is a param that we have to pass. The other 
+constructor doesn't prompt. The price is fixed and no param in the method.
+
+
+Q46: It doesn't have to take any parameter if we set the total 0. 
+The method is a mutator.
+
   
   

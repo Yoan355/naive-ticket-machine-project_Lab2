@@ -18,11 +18,22 @@ public class TicketMachine
     // The total amount of money collected by this machine.
     private int total;
     
+    public void setTotal() {
+        total = 0;
+    }
+    
     
     public void Prompt() 
     {
         
         System.out.println("Please insert the correct amount of money.");
+        
+    }
+    
+    public void showPrice()
+    {
+        
+      System.out.println("The price of a ticket is " + price + " cents.");  
         
     }
     
@@ -44,7 +55,8 @@ public class TicketMachine
         balance = 0;
         total = 0;
     }
-
+    
+    
     /**
      * Return the price of a ticket.
      */
@@ -83,8 +95,11 @@ public class TicketMachine
         System.out.println("# The BlueJ Line");
         System.out.println("# Ticket");
         System.out.println("# " + price + " cents.");
+        System.out.printf("# %d cents.%n", price);
         System.out.println("##################");
         System.out.println();
+        
+        
 
         // Update the total collected with the balance.
         total = total + balance;
