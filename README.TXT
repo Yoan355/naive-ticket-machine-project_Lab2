@@ -140,3 +140,17 @@ Q23: The difference in the headers is the method name (getPrice and getBalance)
   
   Q29: No they both do not have return statements, they both are of type void.
   the printTicket method only prints out on the terminal.
+  
+  
+  
+ Q31:public void increaseScore(int points)
+{
+// TODO: Increase score by the value in points.
+    score += points;
+}
+
+
+
+  
+  
+  
