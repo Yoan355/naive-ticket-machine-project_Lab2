@@ -125,3 +125,18 @@ Q23: The difference in the headers is the method name (getPrice and getBalance)
   Q25: No,changing the method name does not require to change the return statement.
   This tells us that we can name the method anything we want but using the right 
   naming conventions makes the code simpler to understand.
+  
+  
+  Q27:When we remove the return statement from the body, the error displayed
+  tells us that it is missing a return value.
+  
+  
+  
+  Q28: getPrice returns a value (int) while printTicket returns a (void)
+  and TicketMachine does not return anything.TicketMachine is a constructor,while 
+  the two others are regular methods.
+  
+  
+  
+  Q29: No they both do not have return statements, they both are of type void.
+  the printTicket method only prints out on the terminal.
