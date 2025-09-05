@@ -161,34 +161,34 @@ Q33:
 /**
 */
 * Reduce price by the given amount.
-public void discount(int amount)
-{
-// TODO: Subtract amount from price.
-
-
-}
+public void discount(int amount) {
+    
+    // TODO: Subtract amount from price.
+    price = price - amount;
+ }
 
 
 
 
 Q34:
   public void setAge(int currentAge) {
-    this.age = currentAge;
+    age = currentAge;
 }
 
 
 
 Q35:
 
-public void setAlive(boolean alive) {
-    this.alive = alive;
+public void setAlive(boolean isAlive) {
+    alive = isAlive;
 }
 
 
 
+Q36:The price shows 0.
 
-Q36: 
 
+Q37: My cat has green eyes.
 
   
   
