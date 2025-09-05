@@ -168,6 +168,27 @@ public void discount(int amount)
 
 }
 
-  
+
+
+
+Q34:
+  public void setAge(int currentAge) {
+    this.age = currentAge;
+}
+
+
+
+Q35:
+
+public void setAlive(boolean alive) {
+    this.alive = alive;
+}
+
+
+
+
+Q36: 
+
+
   
   
