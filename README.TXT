@@ -150,6 +150,23 @@ Q23: The difference in the headers is the method name (getPrice and getBalance)
 }
 
 
+Q32: Yes the addCredits method is a mutator method because
+it updates the credits variable by adding more points,meaning it
+changes the internal state.
+
+
+
+
+Q33: 
+/**
+*/
+* Reduce price by the given amount.
+public void discount(int amount)
+{
+// TODO: Subtract amount from price.
+
+
+}
 
   
   
